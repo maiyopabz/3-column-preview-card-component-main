@@ -117,6 +117,25 @@ p {
     max-width: 900px;
     margin: auto;
   }
+
+  .bright-orange {
+    border-radius: 10px 0 0 10px;
+  }
+
+  .very-dark-cyan {
+    border-radius: 0 10px 10px 0;
+  }
+
+  .card {
+    padding: 45px;
+  }
+
+  .card p {
+    margin-bottom: 80px;
+  }
+
+
+  
+
 }
 
-@media (min-width: 1280px)
